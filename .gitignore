@@ -1,0 +1,7 @@
+# Secrets and runtime data: never versioned
+kdrive.env
+state/
+backups/
+*.log
+__pycache__/
+*.tmp
